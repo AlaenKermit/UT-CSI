@@ -18,3 +18,4 @@ elif main_questionne == "loos": #kui kasutaja valis loosi siis
         print("Istekoht loositi. Vahekäigukoht")
 else: #trikk
     print("Vigane sisend")
+#Added to GitHub on 13th of March, 2021

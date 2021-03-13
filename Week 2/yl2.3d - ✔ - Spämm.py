@@ -11,3 +11,4 @@ elif kirja_teema == "":
     #    print("Kiri on spämm")
 else:
     print("Kiri ei ole spämm")
+#Added to GitHub on 13th of March, 2021

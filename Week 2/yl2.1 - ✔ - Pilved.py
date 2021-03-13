@@ -5,3 +5,4 @@ if pilvekõrgus > 6: # kui pilvekõrgus on suurem kui 6 siis
     print("Need on ülemised pilved") # väljundiks see
 else: # kui ei ole suurem kui 6 siis
     print("Need ei ole ülemised pilved") # väljundiks see
+#Added to GitHub on 13th of March, 2021

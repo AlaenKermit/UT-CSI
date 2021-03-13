@@ -11,3 +11,4 @@ else:
 if inimeste_arv == kohtade_arv * busside_arv:
     puudu = kohtade_arv
 print("Kokku on viimases bussis:", puudu, "inimest.")
+#Added to GitHub on 13th of March, 2021

@@ -13,3 +13,4 @@ else: #trikk
     print("Vaja busse: ", mitu_bussi_vaja_veel) #oii see on väga halb
     jääk = inimeste_arv % kohtade_arv # see ei tohiks niimoodi olla
     print("Viimases bussis inimesi:", jääk) #ei ei ei ei ei einstein
+#Added to GitHub on 13th of March, 2021

@@ -11,3 +11,4 @@ else: # kui oli vähem kui 85 punkti siis läheme edasi
             print("Vähem kui kandideerimiseks vajalik") # kui jah siis väljendame
         else: #kui ei siis liigume edasi
             print("Vigane punktisumma") # annab väljundiks veateate
+#Added to GitHub on 13th of March, 2021

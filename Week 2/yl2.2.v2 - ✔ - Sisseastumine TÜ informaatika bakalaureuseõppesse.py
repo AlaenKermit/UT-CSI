@@ -9,3 +9,4 @@ elif punktisumma < 66 and punktisumma >= 0: # vaatame kui punktisumma on väikse
         print("Vähem kui kandideerimiseks vajalik") # kui jah siis väljendame
 else:
         print("Vigane punktisumma") # annab väljundiks veateate
+#Added to GitHub on 13th of March, 2021

@@ -52,3 +52,4 @@ elif sugu == 'N' or sugu == 'n':
         al = round(alumine_piir)
         ül = round(ülemine_piir)
         print("Pulsisagedus peaks olema vahemikus", int(al),  "kuni", int(ül)) #väljendab
+#Added to GitHub on 13th of March, 2021
