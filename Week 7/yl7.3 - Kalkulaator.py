@@ -12,3 +12,4 @@ elif tehevalik == "-":
 elif tehevalik == "*":
     summa = arv1 * arv2
 msgbox(summa)
+#Added to GitHub on 13th of March, 2021

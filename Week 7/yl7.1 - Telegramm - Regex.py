@@ -9,3 +9,4 @@ asendateine = re.sub('Õ' and 'õ', 'oe', asendaesimene)
 asendakolmas = re.sub('Ö' and 'ö', 'oe', asendateine)
 asendaneljas = re.sub('Ü' and 'ü', 'ue', asendakolmas)
 print(asendaneljas.upper())
+#Added to GitHub on 13th of March, 2021

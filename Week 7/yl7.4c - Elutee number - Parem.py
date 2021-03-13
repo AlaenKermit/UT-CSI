@@ -27,3 +27,4 @@ read = failsunnikuupaevad.read().splitlines()
 #cool cool cool cool cool okei nüüd tuleb mmm punktidest lahti saada ja eraldada numbrid ja ja ja liita nad kokku
 #for i in read:
 #    print(i)
+#Added to GitHub on 13th of March, 2021

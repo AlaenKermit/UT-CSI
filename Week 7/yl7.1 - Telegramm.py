@@ -12,3 +12,4 @@ asendakuues = asendaviies.replace('ö', 'oe')
 asendaseitsmes = asendakuues.replace('Ü', 'ue')
 asendakaheksas = asendaseitsmes.replace('ü', 'ue')
 print(asendakaheksas.upper())
+#Added to GitHub on 13th of March, 2021

@@ -7,3 +7,4 @@ päevik = open("paevik.txt", "a", encoding="UTF-8")
 päevik.write(str(kuupäev_kellaaeg) + "\n")
 päevik.write(sissekanne + "\n")
 päevik.close()
+#Added to GitHub on 13th of March, 2021

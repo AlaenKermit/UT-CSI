@@ -31,3 +31,4 @@ for i in range(len(read)):
 print(asjad)
 print(elutee(asjad))
 #nüüd kui meil on sünnikuupäevade fail avatud siis saame panna need väljundid funktsiooni
+#Added to GitHub on 13th of March, 2021
