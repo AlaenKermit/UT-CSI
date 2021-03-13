@@ -1,3 +1,4 @@
 Andmed me hoiame mälus muutujates
 
 Selleks et hoida mälus, peame defineerima mis tüüpi see on
+#Added to GitHub on 13th of March, 2021

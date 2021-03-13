@@ -7,3 +7,4 @@ while loendur <= arv:
     i = i + 2
     loendur = loendur + 1
 print(summa)
+#Added to GitHub on 13th of March, 2021

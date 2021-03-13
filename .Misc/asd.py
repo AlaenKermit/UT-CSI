@@ -4,3 +4,4 @@ if burger == "Jah" or "jah":
     print("TUBLI")
 elif burger != "Jah" or "jah":
     print("IDIOOT")
+#Added to GitHub on 13th of March, 2021
