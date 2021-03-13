@@ -13,4 +13,3 @@ tegelasenimi = str(input("Sisestage oma tegelase nimi: "))
 print("Kas olete kindel, et soovite oma tegelas")
 print("Palun valige oma tegelasklass:\nRÜÜTEL | VIBUKÜTT | MAAGIAMEISTER")
 tegelasklass = str(input("Tegelasklass: "))
-#Added to GitHub on 13th of March, 2021
