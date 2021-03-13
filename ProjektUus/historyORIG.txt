@@ -1,0 +1,616 @@
+    1  #
+    2  ls
+    3  clear
+    4  ls
+    5  clear
+    6  apt-get update
+    7  sudo su
+    8  su
+    9  ls
+   10  clear
+   11  wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh fctrserver
+   12  ls
+   13  ./fctrserver install
+   14  ls
+   15  ls serverfiles/
+   16  ls
+   17  apt install openvpn
+   18  sudo
+   19  su
+   20  exit
+   21  ip a
+   22  exit
+   23  ls
+   24  mkdir factor
+   25  mv * factor/
+   26  ls
+   27  clear
+   28  ls
+   29  apt-get install --yes gnupg
+   30  su
+   31  ip a
+   32  exit
+   33  ls
+   34  cd factor/
+   35  ls
+   36  ls serverfiles/
+   37  ls serverfiles/config
+   38  vim serverfiles/config/config.ini 
+   39  vi serverfiles/config/config.ini 
+   40  clear
+   41  ls
+   42  ./fctrserver 
+   43  ./fctrserver st
+   44  ls
+   45  ./fctrserver 
+   46  ./fctrserver m
+   47  ./fctrserver dt
+   48  vim
+   49  vi lgsm/config-lgsm/fctrserver/fctrserver.cfg 
+   50  vi lgsm/config-lgsm/fctrserver/common.cfg 
+   51  vi lgsm/config-lgsm/fctrserver/_default.cfg 
+   52  ls
+   53  su
+   54  ls
+   55  cd factor/
+   56  ls
+   57  file fctrserver 
+   58  ls log/
+   59  ls log/console/
+   60  cat log/console/fctrserver-console.log 
+   61  ls
+   62  ls -la
+   63  clear
+   64  su
+   65  tree
+   66  man tree
+   67  clear
+   68  tree -d
+   69  ls
+   70  ls /
+   71  ls -l /
+   72  ls
+   73  clear
+   74  su
+   75  ssh 192.168.17.3
+   76  ssh 192.168.17.39
+   77  ssh 192.168.17.40
+   78  clear
+   79  cmatrix 
+   80  clear
+   81  ls
+   82  su
+   83  su
+   84  clear
+   85  ls
+   86  su
+   87  ls
+   88  mkdir mscc
+   89  cd mscc/
+   90  wget https://www.curseforge.com/minecraft/modpacks/sevtech-ages/download/3125814
+   91  ls
+   92  curl https://www.curseforge.com/minecraft/modpacks/sevtech-ages/download/3125814
+   93  ls
+   94  clear
+   95  wget https://www.curseforge.com/minecraft/modpacks/sevtech-ages/download/3125814/file
+   96  ls
+   97  curl https://www.curseforge.com/minecraft/modpacks/sevtech-ages/download/3125814/file
+   98  ip a
+   99  ssh 192.168.17.29
+  100  ssh 192.168.17.28
+  101  ssh 192.168.17.27
+  102  ssh 192.168.17.26
+  103  ssh 192.168.17.25
+  104  ssh 192.168.17.24
+  105  ssh 192.168.17.23
+  106  ssh 192.168.17.22
+  107  ssh 192.168.17.21
+  108  ssh 192.168.17.20
+  109  ssh 192.168.17.19
+  110  ssh 192.168.17.18
+  111  ssh 192.168.17.17
+  112  ssh 192.168.17.16
+  113  lcs
+  114  clear
+  115  ls
+  116  wget https://media.forgecdn.net/files/3125/814/SevTech_Ages_Server_3.2.1.zip
+  117  ls
+  118  mv SevTech_Ages_Server_3.2.1.zip mscc/
+  119  cd mscc/
+  120  unzip SevTech_Ages_Server_3.2.1.zip 
+  121  ls
+  122  rm -rf SevTech_Ages_Server_3.2.1.zip 
+  123  clear
+  124  ls l
+  125  clear
+  126  ls -l
+  127  apt-get update && apt-get upgrade
+  128  su
+  129  ls -la
+  130  chmod +x ServerStart.sh 
+  131  ./ServerStart.sh 
+  132  chmod +x forge-1.12.2-14.23.5.2854-installer.jar 
+  133  ./ServerStart.sh 
+  134  Unable to access jarfile forge-1.12.2-14.23.5.2854.jar
+  135  chmod +x Install.sh 
+  136  ./Install.sh 
+  137  ./ServerStart.sh 
+  138  ls
+  139  cat UPDATE-GUIDE.txt 
+  140  clear
+  141  ls -la
+  142  chmod +x settings.sh 
+  143  ./settings.sh
+  144  ./ServerStart.sh 
+  145  su
+  146  exit
+  147  ls
+  148  cd mscc/
+  149  ls -l
+  150  nano settings.
+  151  nano settings.sh
+  152  nano server.properties 
+  153  ls config/
+  154  clear
+  155  ls -la
+  156  ./ServerStart.sh 
+  157  clear
+  158  ls 
+  159  ls scripts/
+  160  cat scripts/NOTES.md 
+  161  clear
+  162  ./Install.sh 
+  163  ./ServerStart.sh 
+  164  A problem occurred running the Server launcher.java.lang.reflect.InvocationTargetException
+  165  wget https://launcher.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar
+  166  ls
+  167  mv server.jar minecraft_server.1.12.2.jar
+  168  ./ServerStart.sh 
+  169  update-alternatives --config java
+  170  apt update
+  171  java -versio
+  172  java -version
+  173  clear
+  174  df
+  175  ./ServerStart.sh 
+  176  reboot
+  177  ls
+  178  ls -la
+  179  nano README.txt 
+  180  ls -la
+  181  nano eula.txt 
+  182  cd ..
+  183  ls
+  184  exit
+  185  ls
+  186  ls -la
+  187  clear
+  188  ssh 192.168.17.28 
+  189  ssh 192.168.17.29
+  190  ssh 192.168.17.30
+  191  ssh 192.168.17.31
+  192  ssh 192.168.17.32
+  193  ssh 192.168.17.33
+  194  ssh 192.168.17.34
+  195  ssh 192.168.17.35
+  196  ssh 192.168.17.36
+  197  ssh 192.168.17.37
+  198  ssh 192.168.17.38
+  199  ssh 192.168.17.39
+  200  ssh 192.168.17.40
+  201  ssh 192.168.17.41
+  202  ssh 192.168.17.42
+  203  ssh 192.168.17.40
+  204  cd /var/www/html
+  205  ls
+  206  vim index.html 
+  207  ping kerme.tech
+  208  ping kerme.tech 
+  209  ssh 104.24.124.218
+  210  ip a
+  211  exit
+  212  ls
+  213  ls Lehekülg
+  214  rm -rf Lehekülg
+  215  ls
+  216  ssh 192.168.17.36
+  217  ssh 192.168.17.37
+  218  ssh 192.168.17.4
+  219  ssh 192.168.17.41
+  220  ssh 192.168.17.42
+  221  ssh 192.168.17.43
+  222  ssh 192.168.17.44
+  223  ssh 192.168.17.45
+  224  ssh 192.168.17.46
+  225  ssh 192.168.17.47
+  226  ssh 192.168.17.48
+  227  ssh 192.168.17.49
+  228  ssh 192.168.17.50
+  229  ssh 192.168.17.37
+  230  ssh 192.168.17.38
+  231  ssh 192.168.17.39
+  232  ssh 104.24.124.218
+  233  clear 
+  234  tree
+  235  man tree
+  236  hjj
+  237  tree -a
+  238  clear
+  239  cd /
+  240  tree -a
+  241  clear
+  242  man find
+  243  ls
+  244  rm -rf *
+  245  ls
+  246  su
+  247  clear
+  248  ip a
+  249  hostname -i
+  250  clear
+  251  find / -group user
+  252  mkdir user
+  253  find / -group user -exec 
+  254  find / -group user -exec cp {} /home/user/user/
+  255  find / -group user -exec cp {} /home/user/user/ \;
+  256  ls user/
+  257  ls -l user/ >> kt.txt
+  258  ls
+  259  find /usr/ -type f -empty -exec {} cp /home/user/null/
+  260  find /usr/ -type f -empty -exec {} cp /home/user/null/ \;
+  261  ls
+  262  mkdir null
+  263  find /usr/ -type f -empty -exec {} cp /home/user/null/ \;
+  264  ls null/
+  265  echo find /usr/ -type f -empty -exec {} cp /home/user/null/ \; >> cmd.txt
+  266  ls
+  267  su
+  268  find / -group user -exec cp {} /home/user/user/ \;
+  269  clear
+  270  rm -rf user/
+  271  mkdir user
+  272  find / -group user -exec cp {} /home/user/user/ \;
+  273  ls user/
+  274  rm -rf user/
+  275  find / -group user -type f -exec cp {} /home/user/user/ \;
+  276  ls
+  277  mkdir user
+  278  find / -group user -type f -exec cp {} /home/user/user/ \;
+  279  ls user/
+  280  ls -l user/
+  281  clear
+  282  find / -group user -type f -exec cp {} /home/user/user/ \;
+  283  clera
+  284  clear
+  285  find / -group user -type f -exec cp {} /home/user/user/ \; 2> /dev/null
+  286  cat kt.txt 
+  287  ls -l null/ >> kt.txt 
+  288  cat kt.txt 
+  289  clear
+  290  find /home/user/ -type f -empty -exec rm {}
+  291  find /home/user/ -type f -empty -exec rm {} \;
+  292  ls -l ~/ >> kt.txt 
+  293  ls -l null/
+  294  ls
+  295  cat kt.txt 
+  296  clear
+  297  ls -l null/ >> kt.txt 
+  298  find /home/user/ -type f -name "*txt" 
+  299  mkdir linkid
+  300  find /home/user/ -type f -name "*txt" -exec ln -s {} linkid/ \;
+  301  ls -l linkid/
+  302  clear
+  303  ls -l linkid/ >> kt.txt 
+  304  wget http://anna.ikt.khk.ee/mihhail.karutin/unix/datebook 
+  305  clear
+  306  touch praks3_1_5.txt
+  307  ls
+  308  grep Sun datebook 
+  309  user@alndeb:~$ grep Sun datebook
+  310  Tommy Savage:408-724-0140:1222 Oxbow Court, Sunnyvale, CA 94087:5/19/66:34200
+  311  grep '^J' datebook 
+  312  grep '700$' datafile
+  313  grep '700$' datebook 
+  314  grep -v 834 datebook 
+  315  vim datebook 
+  316  ls -la
+  317  clear
+  318  grep 12/ datebook 
+  319  grep :12/ datebook 
+  320  clear
+  321  grep :12/ datebook 
+  322  cat datebook 
+  323  clear
+  324  grep :12/ datebook 
+  325  grep 408- datebook 
+  326  grep :408- datebook 
+  327  clera
+  328  clear
+  329  grep Sun datebook >> praks3_1_5.txt 
+  330  echo ---------------------------------- >> praks3_1_5.txt 
+  331  grep '^J' datebook >> praks3_1_5.txt 
+  332  echo ---------------------------------- >> praks3_1_5.txt 
+  333  grep '700$' datebook >> praks3_1_5.txt 
+  334  echo ---------------------------------- >> praks3_1_5.txt 
+  335  grep -v 834 datebook >> praks3_1_5.txt 
+  336  echo ---------------------------------- >> praks3_1_5.txt 
+  337  grep :12/ datebook 
+  338  grep :12/ datebook  >> praks3_1_5.txt 
+  339  echo ---------------------------------- >> praks3_1_5.txt 
+  340  grep :408- datebook >> praks3_1_5.txt 
+  341  echo ---------------------------------- >> praks3_1_5.txt 
+  342  clear
+  343  cat praks3_1_5.txt 
+  344  clear
+  345  grep '\<Sun\>' datafile
+  346  grep '\<Sun\>' datebook 
+  347  clear
+  348  grep '\<Lincoln\>' datafile
+  349  grep '\<Lincoln\>' datebook 
+  350  grep '\<lincoln\>' datebook 
+  351  grep -n “[0-9]\{6\}” datebook
+  352  grep “[0-9]\{6\}” datebook
+  353  clear
+  354  cat praks3_1_5.txt 
+  355  clear
+  356  grep '\<[A-Z] [a-z] [a-z] [a-z] [a-z],[A-Z]\>'
+  357  grep '\<[A-Z] [a-z] [a-z] [a-z] [a-z],[A-Z]\>' datebook 
+  358  grep '\<[A-Z][a-z][a-z][a-z][a-z],[A-Z]\>' datebook 
+  359  grep '\<[A-Z][a-z][a-z][a-z][a-z]'n'[A-Z]\>' datebook 
+  360  grep '\<[A-Z][a-z][a-z][a-z][a-z][A-Z]\>' datebook 
+  361  user@alndeb:~$ grep '\<[A-Z][a-z][a-z][a-z][a-z][A-Z]\>' datebook
+  362  ssh 192.168.17.37
+  363  ls
+  364  clera
+  365  clear
+  366  df
+  367  clear
+  368  cat datebook 
+  369  clear
+  370  cat praks3_1_5.txt 
+  371  grep '[A-Z][a-z][a-z][a-z][a-z], [A-Z]' datebook
+  372  clearc
+  373  cat kt.txt 
+  374  cat praks3_1_5.txt 
+  375  grep '[A-Z][a-z][a-z][a-z][a-z], [A-Z]' datebook >> praks3_1_5.txt 
+  376  echo ---------------------------------- >> praks3_1_5.txt 
+  377  grep '^[A-Z][a-z]* [Kk]' datebook
+  378  grep '^[A-Z][a-z]* [Kk]' datebook >> praks3_1_5.txt 
+  379  echo ---------------------------------- >> praks3_1_5.txt 
+  380  grep  -n '[0-9]\{6,\}$' datebook
+  381  grep  '[lL]incoln' datebook
+  382  grep  -n '[0-9]\{6,\}$' datebook >> praks3_1_5.txt 
+  383  echo ---------------------------------- >> praks3_1_5.txt 
+  384  grep  '[lL]incoln' datebook >> praks3_1_5.txt 
+  385  cat praks3_1_5.txt 
+  386  grep ':12/[0-9]*/[0-9]*:' datebook
+  387  scp 192.168.17.37:/home/user/arv.txt /home/user/
+  388  cat arv.txt 
+  389  clear
+  390  nano arv.txt 
+  391  mv arv.txt arv.txt-11.12.2020-allankerme
+  392  scp arv.txt-11.12.2020-allankerme 192.168.17.37:/home/user/arv/allankerme/arvestus/
+  393  wgethttp://anna.ikt.khk.ee/mihhail.karutin/avorgud/test.txt
+  394  wget http://anna.ikt.khk.ee/mihhail.karutin/avorgud/test.txt
+  395  cat test.txt 
+  396  scp test.txt 192.168.17.37:/home/user/arv/allankerme/arvestus/
+  397  history >> allankerme_avorgud_11.12.2020.hist
+  398  vim allankerme_avorgud_11.12.2020.hist 
+  399  clear
+  400  ssh 192.168.17.37
+  401  vim allankerme_avorgud_11.12.2020.hist 
+  402  clear 
+  403  lw
+  404  vim a
+  405  vim allankerme_avorgud_11.12.2020.hist 
+  406  scp allankerme_avorgud_11.12.2020.hist 192.168.17.37:/home/user/arv/allankerme/arvestus/
+  407  ls
+  408  scp kt.txt  192.168.17.37:/home/user/arv/allankerme/arvestus/
+  409  scp praks3_1_5.txt  192.168.17.37:/home/user/arv/allankerme/arvestus/
+  410  clear
+  411  git clone https://github.com/The-Powder-Toy/tptmp
+  412  cd tptmp/
+  413  apt-get install luarocks
+  414  su
+  415  sudo luarocks install luasocket
+  416  su
+  417  ls
+  418  mkdir harmony
+  419  cd harmony/
+  420  cd ..
+  421  mv harmony_chat_app.rar harmony/
+  422  clear
+  423  cd harmony/
+  424  unrar
+  425  unzip
+  426  apt-get install unrar
+  427  su
+  428  tar
+  429  mv harmony_chat_app.rar harmony.tar.gz
+  430  tar -xvf harmony.tar.gz 
+  431  ls
+  432  mv harmony.tar.gz harmony.rar
+  433  unzip h
+  434  unzip harmony.rar
+  435  mv harmony.rar harmony.zip
+  436  unzip harmony.zip 
+  437  clear
+  438  unzip harmony
+  439  unzip *
+  440  clear
+  441  su
+  442  ls
+  443  mv harmony.zip harmony.rar
+  444  su
+  445  df
+  446  cd /home
+  447  ls
+  448  cd
+  449  clear
+  450  date
+  451  man date
+  452  date +"%F %T,%N"
+  453  date +"%F %T"
+  454  date +%x_%H:%M:%S:%N
+  455  date +%x_%H:%M:%S
+  456  date +%x_%H:%M
+  457  date +%x_%H
+  458  date +%x
+  459  clear
+  460  man date
+  461  date +%x_%H:%M:%S:%N | sed 's/\(:[0-9][0-9]\)[0-9]*$/\1/'
+  462  date +%X
+  463  clear
+  464  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  465  04/01/2021
+  466  mkdir kordpraks1
+  467  cd kordpraks1/
+  468  mkdir list_i
+  469  touch list_i/list.txt
+  470  ls -l > list_i/list.txt 
+  471  ls
+  472  rm -rf *
+  473  mkdir list_i
+  474  touch list_i/list.txt
+  475  touch fail{1..12}.txt
+  476  ls
+  477  touch fail{01..12}.txt
+  478  ls
+  479  rm *
+  480  touch fail{1..12}.txt
+  481  ls
+  482  ls -l
+  483  clear
+  484  ls -l > list_i/list.txt 
+  485  vim fail1.txt 
+  486  mv fail1.txt minu_andmed.txt
+  487  ls -l
+  488  more minu_andmed.txt 
+  489  vim fail9.txt 
+  490  mv fail9.txt aine_andmed.txt
+  491  ls -l
+  492  more aine_andmed.txt 
+  493  date +x > fail2.txt 
+  494  ls -l
+  495  mv fail2.txt date_andmed.txt
+  496  ls -l
+  497  more date_andmed.txt 
+  498  date +%x > fail2.txt 
+  499  ls
+  500  rm fai
+  501  date +%x > date_andmed.txt 
+  502  more date_andmed.txt 
+  503  echo -----------end of list 1------------- >> list_i/list.txt 
+  504  ls -l list_i/list.txt >> list_i/list.txt 
+  505  echo ------------end of list 2--------- >> list_i/list.txt 
+  506  ssh user@192.168.17.37
+  507  ls /home/
+  508  ls /home/user/
+  509  cd /home/user/
+  510  ls
+  511  mkdir ARHIIV
+  512  mv allankerme_avorgud_11.12.2020.hist ARHIIV/
+  513  mv arv.txt-11.12.2020-allankerme ARHIIV/
+  514  mv cmd.txt ARHIIV/
+  515  mv harmony/ ARHIIV/
+  516  MV null/ ARHIIV/
+  517  mv null/ ARHIIV/
+  518  mv datebook  ARHIIV/
+  519  mv kt.txt ARHIIV/
+  520  mv praks3_1_5.txt ARHIIV/
+  521  mv test.txt ARHIIV/
+  522  mv tptmp/ ARHIIV/
+  523  mv user/ ARHIIV/
+  524  ls
+  525  mv linkid/ ARHIIV/
+  526  clear
+  527  mv kordpraks1/fail{3..8}.txt /home/user/
+  528  ls
+  529  nano kordpraks1/list_i/list.txt 
+  530  mv fail{3..8}.txt kordpraks1/
+  531  ls
+  532  ls -l kordpraks1/ >> kordpraks1/list_i/list.txt 
+  533  nano kordpraks1/list_i/list.txt 
+  534  cd kordpraks1/
+  535  mv kordpraks1/fail{3..8}.txt /home/user/
+  536  mv fail{3..8}.txt /home/user/
+  537  clear
+  538  cd 
+  539  ls
+  540  ls -l >> kordpraks1/list_i/list.txt 
+  541  echo ------------end of list 3--------- >> kordpraks1/list_i/list.txt 
+  542  cd kordpraks1/
+  543  mkdir allalaadimised
+  544  cd allalaadimised/
+  545  wget http://anna.ikt.khk.ee/mihhail.karutin/avorgud/test.txt
+  546  ls
+  547  cd ..
+  548  mkdir backup
+  549  cp * backup/
+  550  ls
+  551  ls backup/
+  552  cp -R * backup/
+  553  ls
+  554  ls backup/
+  555  ls backup/backup/
+  556  rm -rf backup/backup/
+  557  ls -l backup/ >> list_i/list.txt 
+  558  echo -----end of backup-------- >> list_i/list.txt 
+  559  touch ip.txt
+  560  ip a >> ip.txt 
+  561  more ip.txt 
+  562  clear
+  563  scp ip.txt user@192.168.17.37
+  564  scp ip.txt user@192.168.17.37:/home/user/its20/allan_kerme/
+  565  ssh user@192.168.17.37
+  566  scp 192.168.18.87:/home/user/a.txt /home/user/kordpraks1/
+  567  scp 192.168.1817.37home/user/a.txt /home/user/kordpraks1/
+  568  scp 192.168.1817.37:/home/user/a.txt /home/user/kordpraks1/
+  569  scp 192.168.17.37:/home/user/a.txt /home/user/kordpraks1/
+  570  vim a.txt 
+  571  mv a.txt a_allan_kerme
+  572  mv a.txt a_allan_kerme a_allan_kerme.txt
+  573  mv a_allan_kerme a_allan_kerme.txt
+  574  scp a_allan_kerme.txt 192.168.17.37:/home/user/its20/allan_kerme
+  575  ls
+  576  rm a_allan_kerme.txt 
+  577  ls backup/
+  578  rm aine_andmed.txt 
+  579  rm -rf allalaadimised/
+  580  rm fail{1..12}.txt
+  581  ls
+  582  rm date_andmed.txt 
+  583  rm ip.txt 
+  584  rm -rf list_i/
+  585  rm minu_andmed.txt 
+  586  rm user@192.168.17.37 
+  587  clear
+  588  cp -R backup/list_i/ list_i
+  589  ls
+  590  mv list_i/list.txt /home/user/kordpraks1/
+  591  ls
+  592  rm -rf list_i/
+  593  ls
+  594  ls -l >> list.txt 
+  595  echo --------end of list 4-------- >> list.txt 
+  596  scp list.txt 192.168.17.37:/home/user/its20/allan_kerme
+  597  scp 192.168.17.37:/home/user/test.txt /home/user/kordpraks1/
+  598  ssh 192.168.17.37
+  599  scp 192.168.17.37:/home/user/test.txt.1 /home/user/kordpraks1/
+  600  ls
+  601  echo allan kerme >> test.txt.1 
+  602  date
+  603  date >> test.txt.1 
+  604  mv test.txt.1 test.txt
+  605  scp test.txt 192.168.17.37:/home/user/its20/allan_kerme
+  606  clear
+  607  history >> 04.01_history_allan_kerme.txt
+  608  nano 04.01_history_allan_kerme.txt 
+  609  scp 04.01_history_allan_kerme.txt 192.168.17.37:/home/user/its20/allan_kerme
+  610  clear
+  611  history
+  612  pwd
+  613  uname
+  614  hostnam
+  615  hostname
+  616  history > history.txt

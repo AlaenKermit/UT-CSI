@@ -1,0 +1,6 @@
+    5  #
+    1  ip a
+    2  pwd
+    3  cat rootfile.txt
+    4  print rootfile.txt
+

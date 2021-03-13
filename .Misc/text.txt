@@ -1,0 +1,3 @@
+Andmed me hoiame mälus muutujates
+
+Selleks et hoida mälus, peame defineerima mis tüüpi see on
