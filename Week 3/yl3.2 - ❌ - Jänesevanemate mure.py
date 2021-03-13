@@ -42,5 +42,5 @@ ringide_arv = int(input("sisestage ringide arv: "))
 porgandite_koguarv = 0
 if ringide_arv % 2 != 0:
     ringide_arv - 1
-    while ringide_arv % 
-    
+    while ringide_arv %
+# Added to GitHub on 13th of March, 2021

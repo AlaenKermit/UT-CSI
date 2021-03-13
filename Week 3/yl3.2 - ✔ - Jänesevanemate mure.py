@@ -20,3 +20,4 @@ if ringide_arv % 2 != 0:
         ringide_arv = ringide_arv - 2
         if ringide_arv == 0:
             print(porgandite_koguarv)
+#Added to GitHub on 13th of March, 2021

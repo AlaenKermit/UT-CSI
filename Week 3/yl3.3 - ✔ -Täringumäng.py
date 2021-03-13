@@ -7,3 +7,4 @@ while asi1 < täringuasi:
     randommakerofgenerator = randint(1, 6)
     print(randommakerofgenerator)
     asi1 = asi1 + 1
+#Added to GitHub on 13th of March, 2021

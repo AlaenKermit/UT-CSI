@@ -9,3 +9,4 @@ while arv:
         arv = arv - 1
         astendaja = astendaja + 1
 print("Leiutaja küsis", arv3, "nisutera")
+#Added to GitHub on 13th of March, 2021

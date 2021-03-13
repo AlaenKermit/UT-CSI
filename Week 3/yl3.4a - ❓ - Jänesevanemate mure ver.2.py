@@ -8,7 +8,7 @@ while i <= ringide_arv:
     print (i), '\t', i * (i + 1)/2
     i += 1
 print(i)
-    
+#Added to GitHub on 13th of March, 2021
     
     
     

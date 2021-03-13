@@ -16,3 +16,4 @@ if pöialpoisiarv == 0:
     helbearv = 14
     
 print("lumevalgekesele jääb alles", helbearv, "õuna")
+#Added to GitHub on 13th of March, 2021

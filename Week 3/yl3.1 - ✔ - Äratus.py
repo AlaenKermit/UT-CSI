@@ -5,3 +5,4 @@ kordade_arv = int(input("Mitu korda äratada: "))
 while i < kordade_arv:
     print("Tõuse ja sära!")
     i = i + 1
+#Added to GitHub on 13th of March, 2021
