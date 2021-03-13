@@ -38,3 +38,4 @@ elif aastaarv == 2018:
 elif aastaarv == 2019:
     vastus = vastuvõetud[8]
     print(vastus)
+#Added to GitHub on 13th of March, 2021

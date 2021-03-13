@@ -17,8 +17,9 @@ for rida in fail:
     
     if tulemus >= 0:
         print(vastuvõetud[tulemus])
-    
+
 fail.close()
+#Added to GitHub on 13th of March, 2021
 #muuta midagi
 #if aastaarv == 2011:
 #    vastus = vastuvõetud[0]

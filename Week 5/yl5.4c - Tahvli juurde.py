@@ -10,3 +10,4 @@ for i in fail:
 #print(datetime.now().day)
 number = datetime.now().day - 1
 print(nimekiri[number])
+#Added to GitHub on 13th of March, 2021

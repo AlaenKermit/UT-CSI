@@ -15,7 +15,7 @@ if ringide_arv % 2 != 0:
     for i in range(ringide_arv, 0, -2):
         porgandite_koguarv = porgandite_koguarv+i
     print(porgandite_koguarv)
-
+#Added to GitHub on 13th of March, 2021
 
 
 

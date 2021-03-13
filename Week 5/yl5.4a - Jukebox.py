@@ -14,3 +14,4 @@ for i in readfailist:
 lauluvalik = int(input("Valige laulu järjekorranumber"))
 valik1 = lauluvalik - 1
 print(eighties[valik1])
+#Added to GitHub on 13th of March, 2021
