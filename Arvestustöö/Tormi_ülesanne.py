@@ -25,3 +25,4 @@ tormidearv = 0
 for i in failisisu:
     torm(i)
 print(tormidearv, "mõõtmist näitas tormi.")
+#Added to GitHub on 13th of March, 2021
