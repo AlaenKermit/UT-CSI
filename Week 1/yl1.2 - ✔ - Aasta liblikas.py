@@ -5,3 +5,4 @@ liblikas = "teelehe-mosaiikliblikas" # muutuja teeblilikas sõne
 lause_keskosa = ". aasta liblikas on " # muutuja lause_keskosa sõne
 lause = str(aasta) + lause_keskosa + liblikas # lause muutja paneb kokku kõik varasemad muutujad et oleks lõppvastus väljendada
 print(lause) # väljendab lause muutuja
+#Added to GitHub on 13th of March, 2021

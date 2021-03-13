@@ -8,3 +8,4 @@ esialgne_tulemus = tegelik_kiirus - lubatud_kiirus # lahutab tegelikust kiiruses
 trahvisumma = esialgne_tulemus * 3 # eelneva vastuse korrutab kolmega
 maksimaalmaara_kontroll = min(maksimaalmaar, trahvisumma) # laseme läbi maksimaalkontrolliks et trahv ei ületaks 190€
 print(nimi + ", kiiruse ületamise eest on teie trahv", maksimaalmaara_kontroll, "eurot.") # väljastame tulemuse
+#Added to GitHub on 13th of March, 2021

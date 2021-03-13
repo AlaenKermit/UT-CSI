@@ -6,3 +6,4 @@ nädalaarv = int(input("Sisestage nädalate arv: ")) # küsib kasutajalt nädala
 ajaasi2 = ajakulu / nädalaarv # jagab kaks muutujat
 ümardatud = round(ajaasi2) # ümardab muutuja ajaasi2 tulemuse
 print(ümardatud) # väljendab ümardatud vastuse tulemuse
+#Added to GitHub on 13th of March, 2021
