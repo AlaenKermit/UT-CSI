@@ -8,3 +8,4 @@ def eelarve(y):
     return y * fpp + rent
 print("Maksimaalne eelarve:", eelarve(kutsutud))
 print("Minimaalne eelarve:", eelarve(inimesi))
+#Added to GitHub on 13th of March, 2021

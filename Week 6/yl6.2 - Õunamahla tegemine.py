@@ -5,3 +5,4 @@ def mahlapakkide_arv(trikk):
     return round(trikk * 0.4/3)
 mahlapakkide_arv(trikk)
 print(float(mahlapakkide_arv(trikk)))
+#Added to GitHub on 13th of March, 2021

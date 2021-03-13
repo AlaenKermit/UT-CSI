@@ -9,3 +9,4 @@ kordus = int(input("Mitu korda soovite reklaamlauset kuvada? "))
 lause = str(input("Sisestage reklaamlause: "))
 lause = lause.upper()
 counter()
+#Added to GitHub on 13th of March, 2021

@@ -12,3 +12,4 @@ while i <= kordus:
     i = i + 1
     number = number + 1
     tervitus(kordus)
+#Added to GitHub on 13th of March, 2021
